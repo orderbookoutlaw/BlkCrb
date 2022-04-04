@@ -1,0 +1,26 @@
+:root { 
+  --aquamarine-blue: #6bd9da;
+  --black: #000000;
+  --denim: #3067ba;
+  --dove-gray: #707070;
+  --licorice: #121212;
+  --mountain-mist: #979797;
+  --shadow-blue: #7e84a3;
+  --torch-red: #f0142f;
+  --vulcan: #131523;
+  --white: #ffffff;
+ 
+  --font-size-l: 34px;
+  --font-size-m: 22px;
+  --font-size-s: 19px;
+  --font-size-xs: 18px;
+  --font-size-xxs: 16px;
+  --font-size-xxxs: 15px;
+  --font-size-xxxxs: 14px;
+ 
+  --font-family-archivo: "Archivo", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-press_start_2p: "Press Start 2P", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}

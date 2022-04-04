@@ -1,0 +1,11 @@
+.web-1920-1 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 4302px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+

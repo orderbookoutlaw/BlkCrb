@@ -1,0 +1,10 @@
+.web-1920-2 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1825px;
+  position: relative;
+  width: 1920px;
+}
+
